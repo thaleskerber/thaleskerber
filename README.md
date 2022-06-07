@@ -21,8 +21,8 @@ Abaixo está listado algumas das habilidades desenvolvidas durante os primeiros 
 
 Durante cada período da Faculdade, um Projeto Integrador é desenvolvido em parceira com empresas privadas, buscando a aplicação prática das tecnologias e metodologias utilizadas no mercado. Segue abaixo links para os repositórios de cada projeto já realizado:
 
-* [Projeto Integrador 1º Período]()
-* [Projeto Integrador 2º Período]()
+* [Projeto Integrador 1º Período](https://github.com/thaleskerber/Projeto-Integrador-1-Semestre)
+* [Projeto Integrador 2º Período](https://github.com/thaleskerber/Projeto-Integrador-2-Semestre)
 
 ---
 
