@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Me chamo Thales Kerber e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São José dos Campos. Caso queira entrar em contato, veja em [Contato](##contato).
+Me chamo Thales Kerber e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São José dos Campos. Caso queira entrar em contato, veja em [Contato](https://github.com/thaleskerber/thaleskerber/blob/main/README.md#contato).
 
 ---
 
