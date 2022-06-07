@@ -1,12 +1,12 @@
 ## Olá 👋
 
-Me chamo Thales Kerber e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São José dos Campos.
+Me chamo Thales Kerber e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São José dos Campos. Caso queira entrar em contato, veja em [Contato](##contato).
 
 ---
 
 ## Aprendizado
 
-Abaixo está listado algumas das habilidades desenvolvidas durante os primeiros períodos, pelos [Projetos Integradores desenvolvidos](##Projetos_Integradores), e também por cursos realizados fora da Instituição:
+Abaixo está listado algumas das habilidades desenvolvidas durante os primeiros períodos, pelos [Projetos Integradores desenvolvidos](##projetos), e também por cursos realizados fora da Instituição:
 
 * Java
 * Python
@@ -17,6 +17,7 @@ Abaixo está listado algumas das habilidades desenvolvidas durante os primeiros 
 
 ---
 
+<span id="projetos">
 ## Projetos Integradores
 
 Durante cada período da Faculdade, um Projeto Integrador é desenvolvido em parceira com empresas privadas, buscando a aplicação prática das tecnologias e metodologias utilizadas no mercado. Segue abaixo links para os repositórios de cada projeto já realizado:
@@ -26,6 +27,7 @@ Durante cada período da Faculdade, um Projeto Integrador é desenvolvido em par
 
 ---
 
+<span id="contato">
 ## Contato
 
 Clique em um banner abaixo para encontrar alguns dos meus meios de contato!
