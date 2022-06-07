@@ -6,7 +6,7 @@ Me chamo Thales Kerber e atualmente estou cursando Análise e Desenvolvimento de
 
 ## Aprendizado
 
-Abaixo está listado algumas das habilidades desenvolvidas durante os primeiros períodos, pelos [Projetos Integradores desenvolvidos](##projetos), e também por cursos realizados fora da Instituição:
+Abaixo está listado algumas das habilidades desenvolvidas durante os primeiros períodos, pelos [Projetos Integradores desenvolvidos](https://github.com/thaleskerber/thaleskerber/blob/main/README.md#projetos-integradores), e também por cursos realizados fora da Instituição:
 
 * Java
 * Python
