@@ -17,7 +17,6 @@ Abaixo está listado algumas das habilidades desenvolvidas durante os primeiros 
 
 ---
 
-<span id="projetos">
 ## Projetos Integradores
 
 Durante cada período da Faculdade, um Projeto Integrador é desenvolvido em parceira com empresas privadas, buscando a aplicação prática das tecnologias e metodologias utilizadas no mercado. Segue abaixo links para os repositórios de cada projeto já realizado:
@@ -27,7 +26,6 @@ Durante cada período da Faculdade, um Projeto Integrador é desenvolvido em par
 
 ---
 
-<span id="contato">
 ## Contato
 
 Clique em um banner abaixo para encontrar alguns dos meus meios de contato!
