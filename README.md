@@ -1,19 +1,24 @@
 ## Olá 👋
 
-Me chamo Thales Kerber e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São José dos Campos. Caso queira entrar em contato, veja em [Contato](https://github.com/thaleskerber/thaleskerber/blob/main/README.md#contato).
+Me chamo Thales Kerber e atualmente estou cursando o terceiro período de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São José dos Campos. Caso queira entrar em contato, veja em [Contato](https://github.com/thaleskerber/thaleskerber/blob/main/README.md#contato).
 
 ---
 
 ## Aprendizado
 
-Abaixo está listado algumas das habilidades desenvolvidas durante os primeiros períodos, pelos [Projetos Integradores desenvolvidos](https://github.com/thaleskerber/thaleskerber/blob/main/README.md#projetos-integradores), e também por cursos realizados fora da Instituição:
+Abaixo está listado algumas das habilidades desenvolvidas durante os primeiros períodos, pelos [Projetos Integradores desenvolvidos](https://github.com/thaleskerber/thaleskerber/blob/main/README.md#projetos-integradores), por cursos realizados fora da Instituição e também pelo meu estágio :
 
 * Java
 * Python
+* C#
+* ASP .NET
+* JavaScript
 * HTML5
 * CSS3
 * SQL
 * Metodologia Ágil (Scrum)
+* Azure DevOPS
+* Git
 
 ---
 
@@ -23,6 +28,7 @@ Durante cada período da Faculdade, um Projeto Integrador é desenvolvido em par
 
 * [Projeto Integrador 1º Período](https://github.com/thaleskerber/Projeto-Integrador-1-Semestre)
 * [Projeto Integrador 2º Período](https://github.com/thaleskerber/Projeto-Integrador-2-Semestre)
+* [Projeto Integrador 3º Período](https://github.com/thaleskerber/Projeto-Integrador-3-Semestre)
 
 ---
 
