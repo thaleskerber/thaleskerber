@@ -1,24 +1,6 @@
 ## Olá 👋
 
-Me chamo Thales Kerber e atualmente estou cursando o terceiro período de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São José dos Campos. Caso queira entrar em contato, veja em [Contato](https://github.com/thaleskerber/thaleskerber/blob/main/README.md#contato).
-
----
-
-## Aprendizado
-
-Abaixo está listado algumas das habilidades desenvolvidas durante os primeiros períodos, pelos [Projetos Integradores desenvolvidos](https://github.com/thaleskerber/thaleskerber/blob/main/README.md#projetos-integradores), por cursos realizados fora da Instituição e também pelo meu estágio :
-
-* Java
-* Python
-* C#
-* ASP .NET
-* JavaScript
-* HTML5
-* CSS3
-* SQL
-* Metodologia Ágil (Scrum)
-* Azure DevOPS
-* Git
+Me chamo Thales Kerber e atualmente estou cursando o quarto período de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São José dos Campos e também sou estagiário em Desenvolvimento de Software na Pro4Tech desde junho de 2022. Caso queira entrar em contato, veja em [Contato](https://github.com/thaleskerber/thaleskerber/blob/main/README.md#contato).
 
 ---
 
