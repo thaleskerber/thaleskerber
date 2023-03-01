@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Me chamo Thales Kerber e atualmente estou cursando o quarto período de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São José dos Campos e também sou estagiário em Desenvolvimento de Software na Pro4Tech desde junho de 2022. Caso queira entrar em contato, veja em [Contato](https://github.com/thaleskerber/thaleskerber/blob/main/README.md#contato).
+Me chamo Thales Kerber e atualmente estou cursando o quarto período de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São José dos Campos e também sou Desenvolvedor Trainee na Pro4Tech. Caso queira entrar em contato, veja em [Contato](https://github.com/thaleskerber/thaleskerber/blob/main/README.md#contato).
 
 ---
 
