@@ -14,6 +14,11 @@ Durante cada período da Faculdade, um Projeto Integrador é desenvolvido em par
 
 ---
 
+![Minhas contribuições](https://github-readme-stats.vercel.app/api?username=thaleskerber&count_private=true&show_icons=true&theme=radical)
+
+
+---
+
 ## Contato
 
 Clique em um banner abaixo para encontrar alguns dos meus meios de contato!
