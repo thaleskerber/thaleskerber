@@ -11,6 +11,7 @@ Durante cada período da Faculdade, um Projeto Integrador é desenvolvido em par
 * [Projeto Integrador 1º Período](https://github.com/thaleskerber/Projeto-Integrador-1-Semestre)
 * [Projeto Integrador 2º Período](https://github.com/thaleskerber/Projeto-Integrador-2-Semestre)
 * [Projeto Integrador 3º Período](https://github.com/thaleskerber/Projeto-Integrador-3-Semestre)
+* [Projeto Integrador 4º Período](https://github.com/thaleskerber/Projeto-Integrador-4-Semestre)
 
 ---
 
