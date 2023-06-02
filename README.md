@@ -4,6 +4,20 @@ Me chamo Thales Kerber e atualmente estou cursando o quarto período de Análise
 
 ---
 
+## Tecnologias
+
+Durante os semestres do curso e no período de experiência na Pro4tech, adquiri experiências com as seguintes tecnologias:
+
+- Java
+- C#
+- Javascript/Typescript
+- SQL
+- React
+- JQuery
+- Html & Css
+
+---
+
 ## Projetos Integradores
 
 Durante cada período da Faculdade, um Projeto Integrador é desenvolvido em parceira com empresas privadas, buscando a aplicação prática das tecnologias e metodologias utilizadas no mercado. Segue abaixo links para os repositórios de cada projeto já realizado:
