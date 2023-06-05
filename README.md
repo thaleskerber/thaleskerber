@@ -11,7 +11,7 @@ Durante os semestres do curso e no período de experiência na Pro4tech, adquiri
 - Java
 - C#
 - Javascript/Typescript
-- SQL
+- SQL & SQLServer
 - React
 - JQuery
 - Html & Css
@@ -30,7 +30,6 @@ Durante cada período da Faculdade, um Projeto Integrador é desenvolvido em par
 ---
 
 ![Minhas contribuições](https://github-readme-stats.vercel.app/api?username=thaleskerber&count_private=true&show_icons=true&theme=radical)
-
 
 ---
 
