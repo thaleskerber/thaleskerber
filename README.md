@@ -1,12 +1,12 @@
 ## Olá 👋
 
-Me chamo Thales Kerber e atualmente estou cursando o quarto período de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São José dos Campos e também sou Desenvolvedor Trainee na Pro4Tech. Caso queira entrar em contato, veja em [Contato](https://github.com/thaleskerber/thaleskerber/blob/main/README.md#contato).
+Me chamo Thales Kerber e atualmente estou cursando o quinto período de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São José dos Campos e também sou Desenvolvedor Trainee FullStack na Pro4Tech. Caso queira entrar em contato, veja em [Contato](https://github.com/thaleskerber/thaleskerber/blob/main/README.md#contato).
 
 ---
 
 ## Tecnologias
 
-Durante os semestres do curso e no período de experiência na Pro4tech, adquiri experiências com as seguintes tecnologias:
+Durante os semestres da faculdade e minhas experiências profissionais na Pro4tech, possuo conhecimento nas seguintes tecnologias:
 
 - Java
 - C#
