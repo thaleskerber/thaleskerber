@@ -39,14 +39,15 @@ Durante cada período da Faculdade, um Projeto Integrador é desenvolvido em par
 
 ---
 
-
-![Minhas contribuições](https://github-readme-stats.vercel.app/api?username=thaleskerber&count_private=true&show_icons=true&theme=radical)
-
----
-
 ## :iphone: Contato
 
 Clique em um banner abaixo para encontrar alguns dos meus meios de contato!
 
 <a href="https://www.linkedin.com/in/thaleskerber/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:thaleskerber@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+<br />
+
+---
+
+![Minhas contribuições](https://github-readme-stats.vercel.app/api?username=thaleskerber&count_private=true&show_icons=true&theme=radical)
