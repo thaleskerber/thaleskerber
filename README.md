@@ -31,9 +31,12 @@ Durante os semestres da faculdade e minhas experiências profissionais na Pro4te
 
 ## :page_with_curl: Portifólio de Projetos da Faculdade
 
-> [Portifólio](https://github.com/thaleskerber/portifolio-tg)
+> [Portifólio](https://github.com/thaleskerber/portfolio-tg)
 
 Durante cada período da Faculdade, um Projeto Integrador é desenvolvido em parceira com empresas privadas, buscando a aplicação prática das tecnologias e metodologias utilizadas no mercado.
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thaleskerber&repo=portfolio-tg&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]([https://github.com/SEUUSERNAME/SEUREPOSITORIO](https://github.com/thaleskerber/portfolio-tg))
+
 
 <br />
 
