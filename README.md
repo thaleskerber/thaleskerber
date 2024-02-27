@@ -30,9 +30,9 @@ Durante os semestres da faculdade e minhas experiências profissionais na Pro4te
 
 ---
 
-## :page_with_curl: Portifólio de Projetos da Faculdade
+## :page_with_curl: Portfólio de Projetos da Faculdade
 
-> [Portifólio](https://github.com/thaleskerber/portfolio-tg)
+> [Portfólio](https://github.com/thaleskerber/portfolio-tg)
 
 Durante cada período da Faculdade, um Projeto Integrador é desenvolvido em parceira com empresas privadas, buscando a aplicação prática das tecnologias e metodologias utilizadas no mercado.
 
