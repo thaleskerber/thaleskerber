@@ -1,6 +1,6 @@
 ## 👋 Olá 
 
-Me chamo Thales Kerber e sou formado em Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de São José dos Campos. Atualmente trabalho como Desenvolvedor FullStack na Pro4Tech. Caso queira entrar em contato, veja em [Contato](https://github.com/thaleskerber/thaleskerber/blob/main/README.md#contato).
+Me chamo Thales Kerber e sou formado em Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de São José dos Campos. Atualmente trabalho como Engenheiro de Software na Sonda. Caso queira entrar em contato, veja em [Contato](https://github.com/thaleskerber/thaleskerber/blob/main/README.md#contato).
 
 <br />
 
@@ -8,7 +8,7 @@ Me chamo Thales Kerber e sou formado em Análise e Desenvolvimento de Sistemas p
 
 ## :computer: Tecnologias
 
-Durante os semestres da faculdade e minhas experiências profissionais na Pro4tech, possuo conhecimento nas seguintes tecnologias:
+Durante os semestres da faculdade e minhas experiências profissionais na Pro4tech e Sonda, possuo conhecimento nas seguintes tecnologias:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
