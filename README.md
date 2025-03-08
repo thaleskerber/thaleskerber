@@ -1,6 +1,7 @@
 ## 👋 Olá 
 
-Me chamo Thales Kerber e sou formado em Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de São José dos Campos. Atualmente trabalho como Engenheiro de Software na Sonda. Caso queira entrar em contato, veja em [Contato](https://github.com/thaleskerber/thaleskerber/blob/main/README.md#contato).
+Me chamo Thales Kerber e sou formado em Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de São José dos Campos. Atualmente trabalho como Engenheiro de Software na Sonda e estou cursando Pós Graduação de Especialização em Tecnologia Java na UTFPR (Universidade Tecnológica Federal do Paraná). 
+Caso queira entrar em contato, veja em [Contato](https://github.com/thaleskerber/thaleskerber/blob/main/README.md#contato).
 
 <br />
 
