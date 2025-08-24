@@ -9,7 +9,7 @@ Caso queira entrar em contato, veja em [Contato](https://github.com/thaleskerber
 
 ## :computer: Tecnologias
 
-Durante os semestres da faculdade e minhas experiências profissionais na Pro4tech e Sonda, possuo conhecimento nas seguintes tecnologias:
+Durante os semestres da faculdade e minhas experiências profissionais na Pro4tech e Sonda, possuo experiência nas seguintes tecnologias:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
