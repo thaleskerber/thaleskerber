@@ -1,6 +1,6 @@
 ## 👋 Olá 
 
-Me chamo Thales Kerber e sou formado em Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de São José dos Campos. Atualmente trabalho como Engenheiro de Software na Sonda e estou cursando Pós Graduação de Especialização em Tecnologia Java na UTFPR (Universidade Tecnológica Federal do Paraná). 
+Formado em Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de São José dos Campos e atualmente pós-graduando em Especialização em Tecnologia Java na UTFPR (Universidade Tecnológica Federal do Paraná).
 Caso queira entrar em contato, veja em [Contato](https://github.com/thaleskerber/thaleskerber/blob/main/README.md#contato).
 
 <br />
@@ -34,7 +34,7 @@ Durante os semestres da faculdade e minhas experiências profissionais na Pro4te
 
 Clique em um banner abaixo para encontrar alguns dos meus meios de contato!
 
-<a href="https://www.linkedin.com/in/thaleskerber/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%2320232a?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:thaleskerber@gmail.com"><img src="https://img.shields.io/badge/Gmail-%2320232a?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/thaleskerber/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%2320232a?logo=linkedin-white&logoColor=fff" target="_blank"></a>
+<a href = "mailto:thaleskerber@gmail.com"><img src="https://img.shields.io/badge/Gmail-%2320232a?logo=gmail&logoColor=white" target="_blank"></a>
 
 <br />
