@@ -1,6 +1,9 @@
 ## 👋 Olá 
 
 Formado em Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de São José dos Campos e atualmente pós-graduando em Especialização em Tecnologia Java na UTFPR (Universidade Tecnológica Federal do Paraná).
+
+Atualmente sou Software Engineer na Boston Consulting Group, fazendo parte do time BCG X.
+
 Caso queira entrar em contato, veja em [Contato](https://github.com/thaleskerber/thaleskerber/blob/main/README.md#contato).
 
 <br />
