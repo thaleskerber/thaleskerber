@@ -1,6 +1,6 @@
 ## 👋 Olá 
 
-Formado em Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de São José dos Campos e atualmente pós-graduando em Especialização em Tecnologia Java na UTFPR (Universidade Tecnológica Federal do Paraná).
+Formado em Análise e Desenvolvimento de Sistemas pela FATEC de São José dos Campos e certificado como pós-graduado Especialista em Tecnologia Java pela UTFPR (Universidade Tecnológica Federal do Paraná).
 
 Atualmente sou Software Engineer na Boston Consulting Group, fazendo parte do time BCG X.
 
